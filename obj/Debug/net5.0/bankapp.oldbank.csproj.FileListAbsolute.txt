@@ -1,0 +1,15 @@
+/Users/vitorvieira/Documents/workspace/bankapp/bankapp.oldbank/bin/Debug/net5.0/bankapp.oldbank.deps.json
+/Users/vitorvieira/Documents/workspace/bankapp/bankapp.oldbank/bin/Debug/net5.0/bankapp.oldbank.runtimeconfig.json
+/Users/vitorvieira/Documents/workspace/bankapp/bankapp.oldbank/bin/Debug/net5.0/bankapp.oldbank.runtimeconfig.dev.json
+/Users/vitorvieira/Documents/workspace/bankapp/bankapp.oldbank/bin/Debug/net5.0/bankapp.oldbank.dll
+/Users/vitorvieira/Documents/workspace/bankapp/bankapp.oldbank/bin/Debug/net5.0/ref/bankapp.oldbank.dll
+/Users/vitorvieira/Documents/workspace/bankapp/bankapp.oldbank/bin/Debug/net5.0/bankapp.oldbank.pdb
+/Users/vitorvieira/Documents/workspace/bankapp/bankapp.oldbank/obj/Debug/net5.0/bankapp.oldbank.csprojAssemblyReference.cache
+/Users/vitorvieira/Documents/workspace/bankapp/bankapp.oldbank/obj/Debug/net5.0/bankapp.oldbank.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vitorvieira/Documents/workspace/bankapp/bankapp.oldbank/obj/Debug/net5.0/bankapp.oldbank.AssemblyInfoInputs.cache
+/Users/vitorvieira/Documents/workspace/bankapp/bankapp.oldbank/obj/Debug/net5.0/bankapp.oldbank.AssemblyInfo.cs
+/Users/vitorvieira/Documents/workspace/bankapp/bankapp.oldbank/obj/Debug/net5.0/bankapp.oldbank.csproj.CoreCompileInputs.cache
+/Users/vitorvieira/Documents/workspace/bankapp/bankapp.oldbank/obj/Debug/net5.0/bankapp.oldbank.dll
+/Users/vitorvieira/Documents/workspace/bankapp/bankapp.oldbank/obj/Debug/net5.0/ref/bankapp.oldbank.dll
+/Users/vitorvieira/Documents/workspace/bankapp/bankapp.oldbank/obj/Debug/net5.0/bankapp.oldbank.pdb
+/Users/vitorvieira/Documents/workspace/bankapp/bankapp.oldbank/obj/Debug/net5.0/bankapp.oldbank.genruntimeconfig.cache
